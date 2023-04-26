@@ -1,3 +1,3 @@
-# flutter_hook
+# Flutter_hook
 
-A new Flutter project.
+A Repository to study flutter_hooks with riverpod
